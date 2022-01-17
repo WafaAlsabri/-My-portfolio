@@ -5,10 +5,17 @@
 }
 /*dark*/
 .togg{    margin: 1em 2em;}
-body.dark {
+xxxxxxxzbody.dark {
 	background: #292C35;
 }
+body.dark{	background: #292C35;}
+body.dark .nav{	background: #292C35;}
 
+body.dark .section{	background: #292C35;}
+body.dark .services{	background: #292C35;}
+body.dark p {	color: #fff;}
+body.dark h2 {	color: #fff;}
+body.dark h1 {	color: #fff;}
 .checkbox {
 	opacity: 0;
 	position: absolute;
